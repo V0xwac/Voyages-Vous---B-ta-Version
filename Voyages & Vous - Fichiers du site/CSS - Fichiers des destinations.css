@@ -1,0 +1,103 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: black;
+    color: white;
+    
+}
+
+header {
+    background-color: black;
+    padding: 10px;
+    text-align: center;
+}
+
+header img {
+    width: 150px;
+    height: 150px;
+    object-fit: cover;
+}
+
+nav {
+    background-color: rgb(39, 38, 38);
+    padding: 10px;
+    text-align: center;
+}
+
+nav a {
+    color: #fff;
+    text-decoration: none;
+    margin: 0 15px;
+}
+
+.container {
+    max-width: 800px;
+    margin: 20px auto;
+    padding: 20px;
+    background-color: black;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.destination {
+    text-align: center;
+}
+
+.destination img {
+    max-width: 100%;
+    height: auto;
+    margin-bottom: 15px;
+}
+
+.reservation-buttons {
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+.reservation-buttons button {
+    background-color: #ff8c00;
+    color: #fff;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 20px;
+    margin: 0 10px;
+    cursor: pointer;
+}
+
+#reserve-flight {
+    background-color: #ff8c00;
+    color: #fff;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 20px;
+    cursor: pointer;
+}
+
+#reserve-hotel {
+    background-color: #ff8c00;
+    color: #fff;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 20px;
+    cursor: pointer;
+}
+
+select {
+    padding: 10px;
+    margin: 10px 0;
+}
+
+
+/* ce code ne sert que pour la page d'informations et est desactivée sur les pages desinations. (DEBUT) */
+footer {
+    background-color: rgb(39, 38, 38);
+    color: white;
+    text-align: center;
+    padding: 10px;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+
+    
+}
+/* ce code ne sert que pour la page d'informations et est desactivée sur les pages desinations. (FIN) */

@@ -1,0 +1,100 @@
+https://www.youtube.com/watch?v=pQP8lmjGnp4       States
+https://www.youtube.com/watch?v=REDVbTQxMXo&t=24s   Paris
+https://www.youtube.com/watch?v=fYgq0cT7wCg&t=34s    Barcelone
+https://www.youtube.com/watch?v=mg67iIFivDo     Norvège
+
+
+
+Barem :
+
+Rendu en temps et en heure : 1 point : (tout rendu après la date et l’heure défini retrait de 1 points par jour calendaire, tout rendu après une semaine est considéré comme non-rendu soit une note de zéro) ✅
+
+Respects des consignes : 3 points : noms des pages modifiés, dossier à son nom, images dans le dossier, ..., Sources des images et du texte notées dans le site... (Presque ✅)
+
+Nombre de pages : 3 points : Respect du nombre minimal de pages fonctionnelles. Le code HTML de chaque page doit être fonctionnel (pas de code résiduel non essentiel, ...) ✅
+
+Mise en page CSS : 3 points : utilisation des feuilles de style, utilisation des balises ; c’est le look de votre site ! (Je regarde le côté code, pas vos goûts en matière de graphisme, couleur, ...), le code doit être fonctionnel, pas de code résiduel qui ne sert pas. ✅
+
+Lien interne : 3 points : navigation possible entre les différentes pages, ça doit être fonctionnel ! ✅
+
+Lien Externe : 3 points : liens vers des pages externes au site internet (minimum 2 par pages) ✅
+
+Images : 2 points : insertion d’au moins deux images par pages (images insérées suivant les consignes : pas d’URL depuis un autre site internet) ✅
+
+Couleur CSS : 2 points : utilisation des codes couleurs au sein de la feuille de style ✅
+
+
+
+BONUS possible (il faut déjà avoir réussi le côté principal, ne pas venir faire du bonus si le reste est bancale !) 
+
+Logo : 1 point : mise en place d’un logo « icône » dans son site (visible dans l’onglet) ✅
+
+Création de logo : 1 point : créer un logo pour son site (pas de copier-coller accepté, ni d’IA, ...) ✅ (photoshop)
+
+Vidéo : 1 point : insertion d’une vidéo dans son site ✅
+
+Autre : 1 point : exemples : création d’un menu déroulant, utilisation de code JS, Création d’une bannière fixe avec menu, ... ✅
+
+
+
+
+
+
+
+
+
+
+
+biblio images :
+
+- barceloneacueil : https://www.horizo.com/espagne/espagne_barcelone.php
+- barcelonedestination : (c'est mon image prise pendant mon voyage scolaire de 4ème au parc Guel)
+- bing_generated_qrcode(1) : Generé avec Bing (renvoie vers le site https://boulderbugle.com/trustpilot-voyages-vous-lwewe9j2 )
+- Canada hors stock (image originale : canadadestination / banderole "complet" faite sur photoshop)
+- canadadestination : https://leregional.com/ottawa-veut-attirer-les-touristes-en-dehors-de-lete-et-des-grandes-villes/
+- IMG - 404 Page : Créer avec photoshop par moi
+- japonaccueil : https://fr.pngtree.com/freebackground/kawaguchiko-lake-in-japan-a-stunning-autumn-view-with-the-majestic-mt-fuji-photo_9367409.html
+- kyotodestination : https://www.1zoom.me/fr/wallpaper/531659/z19172.4/3840x2400
+- Logo Voyages & Vous - Onglet : C'est la photo "logo Voyages & Vous.png" qui a été rogniée 
+- Logo Voyages & Vous : Réalisé par mes soins avec photoshop et des images en png trouvées sur le WEB (libre de droit)
+- Maps - Voyages & Vous (screenshot de google maps et F12/inspecter et j'ai modifié pour remplacer par "Voyages & Vous")
+- 
+-
+-
+-
+-
+-
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

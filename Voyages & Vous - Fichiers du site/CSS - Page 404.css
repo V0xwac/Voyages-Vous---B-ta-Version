@@ -1,0 +1,35 @@
+html,
+body {
+  height: 100%;
+  width: 100%;
+  margin: 0px;
+  background: url('IMG\ -\ 404\ Page.png') center/cover; /* Ajout de la propriété background */
+}
+
+.error__button {
+  min-width: 7em;
+  margin-top: 28vw;
+  margin-right: 5vw;
+  margin-left: 4.5vw;
+  padding: 1em 3em;
+  outline: none;
+  border: 2px solid #2f3640;
+  background-color: transparent;
+  border-radius: 8em;
+  color: #576375;
+  cursor: pointer;
+  font-size: 0.75em;
+  font-family: 'Righteous', cursive;
+}
+
+.error__button:hover {
+  color: #21252c;
+}
+
+.error__button--active {
+  background-color: #e67e22;
+  border: 2px solid #e67e22;
+  color: white;
+}
+
+

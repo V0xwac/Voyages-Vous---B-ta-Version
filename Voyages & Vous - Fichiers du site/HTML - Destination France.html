@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+
+    <link rel="stylesheet" href="CSS - Fichiers des destinations.css">
+    <html lang="FR-fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    
+    <link rel="icon" href="Logo Voyages & Vous - Onglet.png" type="image/png">
+
+<head>
+    
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Réservation France</title>
+</head>
+<body>
+    <header>
+        <img src="Logo Voyages & Vous.png" alt="Logo">
+    </header>
+    <nav>
+        <a href="HTML - Voyages & Vous .html">Accueil</a>
+        <a href="HTML - Voyages & Vous .html">Destinations</a>
+        <a href="HTML - Informations.html">Informations</a>
+        <a href="HTML - Mentions Légales.html">Mentions légales</a>
+        <a href="HTML - Page 404.html">Mon panier</a>
+        
+    </nav>
+    <div class="container">
+        <div class="destination">
+            <video src="Vidéo Paris.mp4" alt="Norvège" controls autoplay dont muted loop style="width: 100%; height: auto;"></video>
+            <h2>France - Paris</h2>
+            <p>Découvrez Paris, la Ville Lumière, avec son charme emblématique, sa tour Eiffel et ses monuments iconiques ainsi que son art de vivre incomparable.</p>
+        </div>
+        <div class="reservation-form">
+            <label for="adults">Nombre d'adultes :</label>
+            <input type="number" id="adults" name="adults" min="0" value="0">
+            
+            <label for="children">ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤNombre d'enfants :</label>
+            <input type="number" id="children" name="children" min="0" value="0">
+
+            <p id="totalPrice">Prix total : 0€</p>
+        </div>
+        <div class="reservation-buttons">
+            <button id="reserve-flight" onclick="openPopup1()">Réserver mon vol ✈ </button>
+            <button id="reserve-hotel" onclick="openPopup2()" >Réserver mon hôtel</button>
+        </div>
+    </div>
+
+    <script>
+
+        document.getElementById('adults').addEventListener('input', updatePrice);
+        document.getElementById('children').addEventListener('input', updatePrice);
+
+        function updatePrice() {
+            var pricePerAdult = 100;
+            var pricePerChild = 75;
+            var adults = parseInt(document.getElementById('adults').value);
+            var children = parseInt(document.getElementById('children').value);
+            var totalPrice = (pricePerAdult * adults) + (pricePerChild * children);
+
+            document.getElementById('totalPrice').innerText = 'Prix total : ' + totalPrice + '€';
+        }
+
+        function openPopup1() {
+            window.open('https://wwws.airfrance.fr');
+        }
+        function openPopup2() {
+            window.open('https://www.booking.com/');
+        }
+    </script>
+
+
+
+
+</body>
+</html>
